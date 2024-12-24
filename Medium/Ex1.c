@@ -1,5 +1,5 @@
 //TODO
-//Challenge 1 Medium
+//C Variables Challenge 1 Medium
 
 #include <stdio.h>
 
