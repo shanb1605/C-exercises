@@ -1,7 +1,7 @@
 # C-exercises
 C language Challenges ranging:
-* [Easy](https://github.com/shanb1605/C-exercises/tree/main/Easy)
-* [Medium](https://github.com/shanb1605/C-exercises/tree/main/Medium)
-* [Hard](https://github.com/shanb1605/C-exercises/tree/main/Hard)
+* [Level-1(Easy)](https://github.com/shanb1605/C-exercises/tree/main/Level-1)
+* [Level-2(Medium)](https://github.com/shanb1605/C-exercises/tree/main/Level-2)
+* [Level-3(Hard)](https://github.com/shanb1605/C-exercises/tree/main/Level-3)
 
-***To Run C Program, install gcc and execute => gcc -o Ex1 Ex1.c && ./Ex1 => on terminal***
+***To Run C Program, install gcc and execute => gcc -o <FILE_NAME> FILE_NAME.c && ./FILE_NAME => on terminal***
