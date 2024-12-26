@@ -1,4 +1,4 @@
-//Challenge 1
+//Medium: Challenge 1
 /* C Variables 
 Write a program that calculates the area and perimeter of a rectangle. The program should take the length and width of the rectangle as inputs and store them in separate variables */
 

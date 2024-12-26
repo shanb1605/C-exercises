@@ -1,4 +1,4 @@
-//Challenge 1
+//Easy: Challenge 1
 /* C Variables 
 Write a program that takes two integers as input: num1 and num2. Store their sum, difference, product, and quotient in separate variables and display the results. 
 Ensure the program handles division safely (no division by zero).*/
