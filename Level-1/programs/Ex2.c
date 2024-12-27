@@ -15,4 +15,6 @@ int main() {
     printf("Value:%f, Sizeof float:%lu bytes\n",b,sizeof(b));
     printf("Value:%lf, Sizeof double:%lu bytes\n",c,sizeof(c));
     printf("Value:%c, Sizeof char:%lu bytes\n",d,sizeof(d));
+
+    return 0;
 }
