@@ -1,2 +1,0 @@
-//Medium Challenge 4
-/**/
