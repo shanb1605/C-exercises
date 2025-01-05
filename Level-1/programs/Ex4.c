@@ -1,5 +1,6 @@
 //Easy Challenge 4
-/*Write a program to calculate the sum of the first 𝑁 natural numbers.
+/* C loops
+Write a program to calculate the sum of the first 𝑁 natural numbers.
 1. Input: A positive integer 𝑁
 2. Output: The sum of the first 𝑁 natural numbers.*/
 
